@@ -56,7 +56,7 @@
         myPara2.textContent = 'Peso: ' + peleadores[i].peso;
         myPara3.textContent = 'Altura: ' + peleadores[i].altura;
         myPara4.textContent = 'Peleas:';
-        const totalPeleas = peleadores[i].powers;
+        const totalPeleas = peleadores[i].victoriasDerrotas;
         for(let j = 0; j < totalPeleas.length; j++) {
           const listItem = document.createElement('li');
           listItem.textContent = totalPeleas[j];
