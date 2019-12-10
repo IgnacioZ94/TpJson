@@ -1,10 +1,10 @@
 {
   "topTres" : "Top 3 peleadores UFC",
-  "descripcion" : "Caracteristicas de los 3 mejores peleadores de UFC",
+  "descripcion" : "Caracteristicas de los 3 mejores peleadores de UFC de la actualidad",
   "año" : 2019,
   "secretBase" : "Super tower",
   "active" : true,
-  "peleadores" : [
+  "miembros" : [
     {
       "nombre" : "Conor McGregor",
       "edad" : 31,

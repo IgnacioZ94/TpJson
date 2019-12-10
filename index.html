@@ -42,7 +42,7 @@
       header.appendChild(myPara);
     }
     function showHeroes(jsonObj) {
-      const peleadores = jsonObj['peleadores'];
+      const peleadores = jsonObj['miembros'];
       for(let i = 0; i < peleadores.length; i++) {
         const myArticle = document.createElement('article');
         const myH2 = document.createElement('h2');
