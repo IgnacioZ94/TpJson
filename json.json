@@ -21,7 +21,7 @@
       "edad" : 31,
       "peso" : 70.2,
       "altura" : 1.75,
-      "powers" : [
+      "victoriasDerrotas" : [
         "Radiation resistance",
         "Turning tiny",
         "Radiation blast"
@@ -32,7 +32,7 @@
       "edad" : 31,
       "peso" : 70.2,
       "altura" : 1.75,
-      "powers" : [
+      "victoriasDerrotas" : [
         "Radiation resistance",
         "Turning tiny",
         "Radiation blast"
