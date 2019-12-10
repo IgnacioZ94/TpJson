@@ -1,7 +1,7 @@
 {
-  "squadName" : "Top 3 peleadores UFC",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
+  "topTres" : "Top 3 peleadores UFC",
+  "descripcion" : "Caracteristicas de los 3 mejores peleadores de UFC 2019",
+  "año" : 2019,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
