@@ -54,8 +54,8 @@
         myPara1.textContent = 'Edad: ' + heroes[i].edad;
         myPara2.textContent = 'Peso: ' + heroes[i].peso;
         myPara3.textContent = 'Altura: ' + heroes[i].altura;
-        myPara4.textContent = 'Artes Marciales: ' + heroes[i].artesMarciales;
-        myPara5.textContent = 'Peleas:';
+        //myPara4.textContent = 'Artes Marciales: ' + heroes[i].artesMarciales;
+        myPara4.textContent = 'Peleas:';
         const totalPeleas = heroes[i].powers;
         for(let j = 0; j < totalPeleas.length; j++) {
           const listItem = document.createElement('li');
