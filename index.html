@@ -50,12 +50,14 @@
         const myPara2 = document.createElement('p');
         const myPara3 = document.createElement('p');
         const myPara4 = document.createElement('p');
+        const myPara5 = document.createElement('p');
         const myList = document.createElement('ul');
         myH2.textContent = peleadores[i].nombre;
         myPara1.textContent = 'Edad: ' + peleadores[i].edad;
         myPara2.textContent = 'Peso: ' + peleadores[i].peso;
         myPara3.textContent = 'Altura: ' + peleadores[i].altura;
-        myPara4.textContent = 'Peleas:';
+        myPara4.textContent = 'Artes Marciales: ' + peleadores[i].artesMarciales;
+        myPara5.textContent = 'Peleas:';
         const totalPeleas = peleadores[i].powers;
         for(let j = 0; j < totalPeleas.length; j++) {
           const listItem = document.createElement('li');
