@@ -54,8 +54,8 @@
         myH2.textContent = peleadores[i].nombre;
         myPara2.textContent = 'Edad: ' + peleadores[i].edad;
         myPara1.textContent = 'Peso: ' + peleadores[i].peso;
-        myPara4.textContent = 'Altura: ' + peleadores[i].altura;
-        myPara3.textContent = 'Total de peleas:';
+        myPara3.textContent = 'Altura: ' + peleadores[i].altura;
+        myPara4.textContent = 'Total de peleas:';
         const totalPeleas = heroes[i].victoriasDerrotas;
         for(let j = 0; j < totalPeleas.length; j++) {
           const listItem = document.createElement('li');
@@ -66,6 +66,7 @@
         myArticle.appendChild(myPara1);
         myArticle.appendChild(myPara2);
         myArticle.appendChild(myPara3);
+        myArticle.appendChild(myPara4);
         myArticle.appendChild(myList);
         section.appendChild(myArticle);
       }
