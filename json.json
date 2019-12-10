@@ -1,40 +1,44 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
+  "topTres" : "Top 3 peleadores UFC",
+  "descripcion" : "Caracteristicas de los 3 mejores peleadores de UFC de la actualidad",
+  "anio" : 2019,
   "secretBase" : "Super tower",
   "active" : true,
-  "members" : [
+  "miembros" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "nombre" : "Conor McGregor",
+      "edad" : 31,
+      "peso" : 70.2,
+      "altura" : 1.75,
+      "victoriasDerrotas" : [
+        "Puntos: 48"
+        "Victorias: 21",
+        "Por nocaut: 18",
+        "Derrotas 4"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "nombre" : "Jonathan Dwight Jones",
+      "edad" : 32,
+      "peso" : 93,
+      "altura" : 1.93,
+      "victoriasDerrotas" : [
+        "Puntos: 38"
+        "Victorias: 25",
+        "Por nocaut: 10",
+        "Derrotas 1"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+      "nombre" : "Cody Garbrandt",
+      "edad" : 28,
+      "peso" : 61,
+      "altura" : 1.72,
+      "victoriasDerrotas" : [
+        "Puntos: 28"
+        "Victorias: 11",
+        "Por nocaut: 9",
+        "Derrotas 3"
       ]
     }
   ]
