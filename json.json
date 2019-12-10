@@ -4,7 +4,7 @@
   "año" : 2019,
   "secretBase" : "Super tower",
   "active" : true,
-  "members" : [
+  "peleadores" : [
     {
       "nombre" : "Conor McGregor",
       "edad" : 31,
