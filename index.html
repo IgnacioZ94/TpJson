@@ -56,7 +56,7 @@
         myPara1.textContent = 'Edad: ' + peleadores[i].edad;
         myPara2.textContent = 'Peso: ' + peleadores[i].peso;
         myPara3.textContent = 'Altura: ' + peleadores[i].altura;
-        myPara5.textContent = 'Artes marciales: ' + peleadores[i].artes;
+        //myPara5.textContent = 'Artes marciales: ' + peleadores[i].artes;
         myPara4.textContent = 'Peleas:';
         const totalPeleas = peleadores[i].victoriasDerrotas;
         for(let j = 0; j < totalPeleas.length; j++) {
@@ -69,7 +69,7 @@
         myArticle.appendChild(myPara2);
         myArticle.appendChild(myPara3);
         myArticle.appendChild(myPara4);
-        myArticle.appendChild(myPara5);
+        //myArticle.appendChild(myPara5);
         myArticle.appendChild(myList);
         section.appendChild(myArticle);
       }
