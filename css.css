@@ -8,10 +8,10 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Faster One',cursive;
+  line-height: 'Faster One',inherit;
 }
 
-/* header styles */
+/*'Faster One',cursive; header styles */
 
 h1 {
   font-size: 4rem;
