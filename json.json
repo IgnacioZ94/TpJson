@@ -7,8 +7,8 @@
   "miembros" : [
     {
       "nombre" : "Conor McGregor",
-      "peso" : 70.2,
       "altura" : 1.75,
+      "peso" : 70.2,
       "victoriasDerrotas" : [
         "Puntos: 48"
         "Victorias: 21",
@@ -18,8 +18,8 @@
     },
     {
       "nombre" : "Jonathan Dwight Jones",
-      "peso" : 93,
       "altura" : 1.93,
+      "peso" : 93,
       "victoriasDerrotas" : [
         "Puntos: 38"
         "Victorias: 25",
@@ -29,8 +29,8 @@
     },
     {
       "nombre" : "Cody Garbrandt",
-      "peso" : 61,
       "altura" : 1.72,
+      "peso" : 61,
       "victoriasDerrotas" : [
         "Puntos: 28"
         "Victorias: 11",
