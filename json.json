@@ -1,7 +1,7 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
+  "topTres" : "Top 3 peleadores UFC",
+  "descripcion" : "Caracteristicas de los 3 mejores peleadores de UFC de la actualidad",
+  "ano" : 2019,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
