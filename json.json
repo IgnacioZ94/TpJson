@@ -1,18 +1,19 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
+  "squadName" : "Top 3 peleadores UFC",
+  "homeTown" : "Caracteristicas de los 3 mejores peleadores de UFC de la actualidad",
+  "formed" : 2019,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Conor McGregor",
+      "age" : 70.2,
+      "secretIdentity" : 1.75,
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "Puntos: 48"
+        "Victorias: 21",
+        "Por nocaut: 18",
+        "Derrotas 4"
       ]
     },
     {
