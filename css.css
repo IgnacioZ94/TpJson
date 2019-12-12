@@ -36,12 +36,14 @@ section article {
 }
 
 section p {
+  font-family: 'Faster One', cursive;
   margin: 5px 0;
   color: orange;
 }
 
 section ul {
   margin-top: 0;
+  color: blue;
 }
 
 h2 {
