@@ -46,6 +46,7 @@
       for(let i = 0; i < peleadores.length; i++) {
         const myArticle = document.createElement('article');
         const myH2 = document.createElement('h2');
+        var imagen = document.createElement('img')
         const myPara1 = document.createElement('p');
         const myPara2 = document.createElement('p');
         const myPara3 = document.createElement('p');
@@ -53,6 +54,8 @@
         const myPara5 = document.createElement('p');
         const myList = document.createElement('ul');
         myH2.textContent = peleadores[i].nombre;
+        imagen.src = peleadores[i].urlImagen;
+        imagen.width = "100";
         myPara1.textContent = 'Edad: ' + peleadores[i].edad;
         myPara2.textContent = 'Peso: ' + peleadores[i].peso;
         myPara3.textContent = 'Altura: ' + peleadores[i].altura;
@@ -69,7 +72,7 @@
         myArticle.appendChild(myPara2);
         myArticle.appendChild(myPara3);
         myArticle.appendChild(myPara4);
-        //myArticle.appendChild(myPara5);
+        myArticle.appendChild(imagen)
         myArticle.appendChild(myList);
         section.appendChild(myArticle);
       }

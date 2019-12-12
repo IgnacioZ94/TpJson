@@ -7,6 +7,7 @@
   "miembros" : [
     {
       "nombre" : "Conor McGregor",
+      "urlImagen" : "McGREGOR_CONOR_R.png",
       "edad" : 31,
       "peso" : 70.2,
       "altura" : 1.75,
@@ -20,6 +21,7 @@
     },
     {
       "nombre" : "Jonathan Dwight",
+      "urlImagen" : "Jones-Jon-UFCV2-1.jpg",
       "edad" : 32,
       "peso" : 93,
       "altura" : 1.93,
@@ -33,6 +35,7 @@
     },
     {
       "nombre" : "Cody Garbrandt",
+      "urlImagen" : "GARBRANDT_CODY_L.png",
       "edad" : 28,
       "peso" : 61,
       "altura" : 1.72,
