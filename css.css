@@ -11,7 +11,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Faster One', cursive;
+  font-family: 'Bangers',cursive;
   color: red;
 }
 
@@ -39,13 +39,13 @@ section article {
 }
 
 section p {
-  font-family: 'Bangers',cursive;
+  font-family: 'Faster One', cursive;
   margin: 5px 0;
   color: orange;
 }
 
 section ul {
-  font-family: 'Bangers',cursive;
+  font-family: 'Faster One', cursive;
   margin-top: 0;
   color: blue;
 }
