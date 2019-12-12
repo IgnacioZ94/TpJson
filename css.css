@@ -11,7 +11,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Faster One', cursive;
+  font-family: 'Bangers',cursive;
   color: red;
 }
 
@@ -31,8 +31,10 @@ header p {
 /* section styles */
 
 section article {
+  font-family: 'Amaranth',cursive;
   width: 33%;
   float: left;
+  color: gray;
 }
 
 section p {
@@ -42,6 +44,7 @@ section p {
 }
 
 section ul {
+  font-family: 'Faster One', cursive;
   margin-top: 0;
   color: blue;
 }
