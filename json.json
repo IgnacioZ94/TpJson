@@ -12,7 +12,6 @@
       "altura" : 1.75,
       "artes" : "Boxeo, Jiu-jitsu, Karate, Taekwondo, Kick boxing",
       "victoriasDerrotas" : [
-        "Puntos: 48"
         "Victorias: 21",
         "Por nocaut: 18",
         "Derrotas 4"
@@ -25,20 +24,18 @@
       "altura" : 1.93,
       "artes" : "Boxeo, Jiu-jitsu, Karate, Taekwondo, Kick boxing",
       "victoriasDerrotas" : [
-        "Puntos: 38"
         "Victorias: 25",
         "Por nocaut: 10",
         "Derrotas 1"
       ]
     },
     {
-      "nombre" : "Cody Garbrandt",
+      "nombre" : "Conor McGregor",
       "edad" : 28,
       "peso" : 61,
       "altura" : 1.72,
       "artes" : "Boxeo, Jiu-jitsu, Karate, Taekwondo, Kick boxing",
       "victoriasDerrotas" : [
-        "Puntos: 28"
         "Victorias: 11",
         "Por nocaut: 9",
         "Derrotas 3"
